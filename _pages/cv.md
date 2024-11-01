@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+<meta http-equiv="refresh" content="0; url=../files/Resume_qianqiay.pdf">
+
+<!--
 {% include base_path %}
 
 Education
@@ -62,3 +65,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
