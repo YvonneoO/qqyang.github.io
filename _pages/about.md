@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Introduction
+Welcome to my personal website! I am Qianqian Yang, an MSME-R student at Carnegie Mellon University. My research interests focus on advancing robotic technologies through Mapping and Localization and Field Robots. I specialize in LiDAR-camera fusion, LiDAR inertial odometry, and LiDAR-based SLAM, with applications in industrial exploration and reconstruction using legged robots.
+
+This website highlights my research, projects, and academic achievements, showcasing my passion for robotics and autonomous systems.
 
 Research Interests
 ------
