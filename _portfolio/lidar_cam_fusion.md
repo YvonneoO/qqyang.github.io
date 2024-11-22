@@ -2,6 +2,7 @@
 title: "LiDAR-Camera Calibration"
 excerpt: "sensor fusion: ouster lidar + panoramic camera <br/><img src='../images/500x300.png'>"
 collection: portfolio
+order: 5
 ---
 
 <iframe width="500" height="300" src="https://www.youtube.com/embed/MU2Ksfzyac8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
