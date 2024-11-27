@@ -1,8 +1,8 @@
 ---
 title: "[Review] Semantic Mapping with a Legged Robot"
-excerpt: "Leveraging the mobility and sensor field-of-view of a legged robot to perform semantic mapping in complex environments. <br/><img src='../images/semantic_mapping/industrial_setting.png'>"
+excerpt: "Leveraging the mobility and sensor field-of-view of a legged robot to perform semantic mapping in industry office environments. <br/><img src='../images/semantic_mapping/industrial_setting.png'>"
 collection: portfolio
-order: 4
+order: 1
 ---
 
 ## Introduction

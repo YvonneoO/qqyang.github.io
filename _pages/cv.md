@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<meta http-equiv="refresh" content="0; url=https://yvonneoo.github.io/qqyang.github.io/files/Resume_qianqiay.pdf">
+<meta http-equiv="refresh" content="0; url=https://yvonneoo.github.io/qqyang.github.io/files/Resume_Qianqian_Yang.pdf">
 
 <!--
 {% include base_path %}

@@ -2,7 +2,7 @@
 title: "UAV Visual SLAM"
 excerpt: "Fiducial marker based and ORB-SLAM based visual SLAM using DJI Tello drone (ROS2) <br/>"
 collection: portfolio
-order: 8
+order: 6
 ---
 
 <iframe width="500" height="300" src="https://www.youtube.com/embed/fQFw5EYCDnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
