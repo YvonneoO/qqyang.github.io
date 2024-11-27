@@ -1,6 +1,6 @@
 ---
 title: "Object Detection and Exploration in Construction Scenario"
-excerpt: "window frame detection during exploration in construction-site scenario using bosdyn SPOT<br/>"
+excerpt: "window frame detection during exploration in construction-site scenario using bosdyn SPOT<br/> <img src='../images/spot_window_frame/main.png'>"
 collection: portfolio
 order: 4
 ---
