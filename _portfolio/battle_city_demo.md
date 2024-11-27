@@ -1,6 +1,6 @@
 ---
 title: "Battle City Demo"
-excerpt: "short description <br/> [replace the img below with a screenshot] <br/><img src='../images/500x300.png'>"
+excerpt: "created a demo of the classic game Battle City using C++ and OPENGL"
 collection: portfolio
 order: 9
 ---

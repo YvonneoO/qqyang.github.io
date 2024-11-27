@@ -1,6 +1,6 @@
 ---
 title: "UAV Visual SLAM"
-excerpt: "short description <br/> [replace the img below with a screenshot] <br/><img src='../images/500x300.png'>"
+excerpt: "Fiducial marker based and ORB-SLAM based visual SLAM using DJI Tello drone (ROS2) <br/>"
 collection: portfolio
 order: 8
 ---

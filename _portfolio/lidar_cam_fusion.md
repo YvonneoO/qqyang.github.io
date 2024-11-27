@@ -1,6 +1,6 @@
 ---
 title: "LiDAR-Camera Calibration"
-excerpt: "sensor fusion: ouster lidar + panoramic camera <br/><img src='../images/500x300.png'>"
+excerpt: "sensor fusion: ouster lidar + panoramic camera (C++ and ROS1) <br/>"
 collection: portfolio
 order: 5
 ---
