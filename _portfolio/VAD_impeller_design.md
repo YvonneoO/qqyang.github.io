@@ -26,7 +26,8 @@ This design project focuses on developing a high-performance impeller in the pum
 
 ### My Contribution
 
-Each team member explored impeller designs at various speeds (2400-3000 rpm), optimizing parameters such as blade height, slip factor, and velocity match. I'm responsible for the design of impeller at the speed of 2700 rpm. <br/>
+Each team member explored impeller designs at various speeds (2400-3000 rpm), optimizing parameters such as blade height, slip factor, and velocity match. I'm responsible for the design of impeller at the speed of 2700 rpm.
+
 I used Excel and MATLAB for calculations and Fusion 360 for CAD modeling. The Materials were selected using CES for biocompatibility, strength, and thermal properties. Then I select the manufacturing process based on the material selection and use Eco-Audit to analyze the material and lifecycle of the proposed design.
 
 ### Final Recommendations:

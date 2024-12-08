@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I am Qianqian Yang, an MSME-R student at Carnegie Mellon University. My research interests focus on advancing robotic technologies through Mapping and Localization and Field Robots. I specialize in LiDAR-camera fusion, LiDAR inertial odometry, and LiDAR-based SLAM, with applications in industrial exploration and reconstruction using legged robots.
+Welcome to my personal website! I am Qianqian Yang, an MSME-R student at Carnegie Mellon University. I work in the RoboTeam group in the Computational Engineering & Robotics Lab (CERLAB) under the supervision of Professor Kenji Shimada. I obtained my BEng in Mechanical Engineering from University College London, and had been worked in the Field Robotics & Learning Lab led by Professor Yuanchang Liu. My research focus on advancing robotic technologies through Mapping and Localization and Field Robots. I specialize in LiDAR-camera fusion, LiDAR inertial odometry, and LiDAR-based SLAM, with applications in industrial exploration and reconstruction using legged robots.
 
 This website highlights my research, projects, and academic achievements, showcasing my passion for robotics and autonomous systems.
 
