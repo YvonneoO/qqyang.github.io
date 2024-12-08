@@ -1,5 +1,5 @@
 ---
-title: "[Review] VAD Impeller Design"
+title: "VAD Impeller Design"
 excerpt: "Prototype Design of a high-performance impeller in the pump of a Ventricular Assist Device (VAD). <br/><img src='../images/impeller_design/main.png'>"
 collection: portfolio
 order: 11
@@ -24,7 +24,10 @@ This design project focuses on developing a high-performance impeller in the pum
   - Lightweight and biocompatible.
   - Chosen for compatibility with fluids and organs in the human body.
 
-Each team member explored impeller designs at various speeds (2400-3000 rpm), optimizing parameters such as blade height, slip factor, and velocity match. We used Excel and MATLAB for calculations and Fusion 360 for CAD modeling. Materials were selected using CES for biocompatibility, strength, and thermal properties.
+### My Contribution
+
+Each team member explored impeller designs at various speeds (2400-3000 rpm), optimizing parameters such as blade height, slip factor, and velocity match. I'm responsible for the design of impeller at the speed of 2700 rpm. <br/>
+I used Excel and MATLAB for calculations and Fusion 360 for CAD modeling. The Materials were selected using CES for biocompatibility, strength, and thermal properties. Then I select the manufacturing process based on the material selection and use Eco-Audit to analyze the material and lifecycle of the proposed design.
 
 ### Final Recommendations:
 - **Mechanical Design**: 5-blade impeller, optimal speed at 2900 rpm.

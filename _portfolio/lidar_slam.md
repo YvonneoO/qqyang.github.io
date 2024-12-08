@@ -1,5 +1,5 @@
 ---
-title: "[Review] Comparative Study of LiDAR SLAM Algorithms"
+title: "Comparative Study of LiDAR SLAM Algorithms"
 excerpt: "Evaluation of LiDAR SLAM algorithms in degraded environments with focus on robustness improvements for dusty conditions. <br/><img src='../images/lidar_slam/main.png'>"
 collection: portfolio
 order: 9
@@ -30,6 +30,11 @@ This project evaluates LiDAR-based SLAM (Simultaneous Localization and Mapping) 
 - **GLIM**: GPU-accelerated voxelized ICP for enhanced accuracy and efficiency.
 
 Performance metrics include Absolute Trajectory Error (ATE) and mapping quality across datasets, such as the KITTI dataset and dust environment data.
+
+### My Contributions:
+- Literature Review on the state-of-the-art LiDAR-based SLAM algorithms.
+- Implement FAST-LIO2 and GLIM with data recorded in dusty environments.
+- Record map and trajectory results for comparison.
 
 ## Results
 

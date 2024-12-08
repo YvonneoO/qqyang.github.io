@@ -1,5 +1,5 @@
 ---
-title: "[Review] Semantic Mapping with a Legged Robot"
+title: "Semantic Mapping with a Legged Robot"
 excerpt: "Leveraging the mobility and sensor field-of-view of a legged robot to perform semantic mapping in industry office environments. <br/><img src='../images/semantic_mapping/industrial_setting.png'>"
 collection: portfolio
 order: 1
@@ -25,12 +25,12 @@ This project fuses data from **SpotCAM** (a 360 panoramic camera) and an **OS1 L
   <figcaption style="font-style: italic;">Figure 2: Hardware Platform</figcaption>
 </figure>
 
-Key Features:
+### Key Features:
 - **Sensor Fusion**: Combines LiDAR and camera data for precise object detection and mapping.
 - **Dense Cloud Generation**: Creates detailed point cloud representations enriched with object-level semantics.
 - **Robustness**: Avoids regions with inconsistent sensor measurements and captures target objects from multiple viewpoints to improve mapping quality.
 
-My contributions include:
+### My contributions include:
 - Object detection.
 - Sensor fusion and integration.
 - Dense background map generation.
