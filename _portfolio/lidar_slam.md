@@ -1,8 +1,8 @@
 ---
-title: "Comparative Study of LiDAR SLAM Algorithms"
+title: "[Review] Comparative Study of LiDAR SLAM Algorithms"
 excerpt: "Evaluation of LiDAR SLAM algorithms in degraded environments with focus on robustness improvements for dusty conditions. <br/><img src='../images/lidar_slam/main.png'>"
 collection: portfolio
-order: 9
+order: 3
 ---
 
 ## Introduction
