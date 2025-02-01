@@ -1,8 +1,8 @@
 ---
-title: "[Review] Automated Electric Vehicle (EV) Charging System"
+title: "Automated Electric Vehicle (EV) Charging System"
 excerpt: "Design of an automated EV charging system to improve accessibility and convenience. <br/><img src='../images/ev_charging/charging_station_design.png'>"
 collection: portfolio
-order: 2
+order: 10
 ---
 
 ## Introduction
